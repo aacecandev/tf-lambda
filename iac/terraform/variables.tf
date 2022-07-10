@@ -6,10 +6,10 @@ variable "aws_region" {
 }
 
 // External variables
-variable "access_key" {
+variable "accessKey" {
   type = string
 }
 
-variable "secret_key" {
+variable "secretKey" {
   type = string
 }
