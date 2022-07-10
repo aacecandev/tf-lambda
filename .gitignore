@@ -37,3 +37,4 @@ terraform.rc
 # Local files
 .env
 files/*
+builds/
